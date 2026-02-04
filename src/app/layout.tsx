@@ -3,8 +3,8 @@ import { Toaster } from "@/components/ui/toaster";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Pudim Perfeito Vendas",
-  description: "Aprenda a fazer o pudim perfeito e encante a todos!",
+  title: "Pudins Sem Forno",
+  description: "Fature até 2 mil reais por semana com pudins sem forno!",
 };
 
 export default function RootLayout({
@@ -14,12 +14,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Literata:wght@400;700&display=swap" rel="stylesheet" />
-      </head>
-      <body className="font-body antialiased">
+      <head />
+      <body className="antialiased">
         {children}
         <Toaster />
       </body>

@@ -2,39 +2,27 @@
   "placeholderImages": [
     {
       "id": "heroPudding",
-      "description": "A delicious caramel pudding on a plate.",
-      "imageUrl": "https://images.unsplash.com/photo-1551024567-92a7053cb4a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjYXJhbWVsJTIwcHVkZGluZ3xlbnwwfHx8fDE3NzAyMjUwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "caramel pudding"
+      "description": "A delicious no-bake pudding.",
+      "imageUrl": "https://images.unsplash.com/photo-1633983054728-04a4401342d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaG9jb2xhdGUlMjBwdWRkaW5nfGVufDB8fHx8MTc3MDIyNTM3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate pudding"
+    },
+    {
+      "id": "ebookMockup",
+      "description": "Mockup of the ebook on a device.",
+      "imageUrl": "https://images.unsplash.com/photo-1563942190361-5228d251a82b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlYm9vayUyMHJlY2lwZXxlbnwwfHx8fDE3NzAyMjUzNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ebook recipe"
+    },
+    {
+      "id": "whatsappTestimonial",
+      "description": "A testimonial in a WhatsApp conversation.",
+      "imageUrl": "https://images.unsplash.com/photo-1700864208310-0849428c612f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaG9uZSUyMHNjcmVlbnxlbnwwfHx8fDE3NzAxMTk0NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "phone screen"
     },
     {
       "id": "author",
       "description": "Portrait of the course author.",
-      "imageUrl": "https://images.unsplash.com/photo-1600160916724-df8b8dc61a48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwY2hlZnxlbnwwfHx8fDE3NzAyMjUwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "smiling chef"
-    },
-    {
-      "id": "testimonial1",
-      "description": "Avatar for the first testimonial.",
-      "imageUrl": "https://images.unsplash.com/photo-1508002366005-75a695ee2d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYXBweSUyMHBlcnNvbnxlbnwwfHx8fDE3NzAxODA2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "happy person"
-    },
-    {
-      "id": "testimonial2",
-      "description": "Avatar for the second testimonial.",
-      "imageUrl": "https://images.unsplash.com/photo-1612994451093-c6791c8989cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzbWlsaW5nJTIwd29tYW58ZW58MHx8fHwxNzcwMTgyNDUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "smiling woman"
-    },
-    {
-      "id": "testimonial3",
-      "description": "Avatar for the third testimonial.",
-      "imageUrl": "https://images.unsplash.com/photo-1604488912264-dfed70450d76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFwcHklMjBtYW58ZW58MHx8fHwxNzcwMTM1MjIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "happy man"
-    },
-    {
-      "id": "guaranteeBadge",
-      "description": "A badge representing the satisfaction guarantee.",
-      "imageUrl": "https://images.unsplash.com/photo-1512542194577-1db2e4eef915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnb2xkJTIwcmliYm9ufGVufDB8fHx8MTc3MDIyNTAzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "gold ribbon"
+      "imageUrl": "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzcwMTcyNzExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
     }
   ]
 }
