@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "heroPudding",
-      "description": "A delicious no-bake pudding.",
-      "imageUrl": "https://images.unsplash.com/photo-1633983054728-04a4401342d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaG9jb2xhdGUlMjBwdWRkaW5nfGVufDB8fHx8MTc3MDIyNTM3OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "chocolate pudding"
+      "description": "Colagem de pudins sem forno",
+      "imageUrl": "https://i.imgur.com/UOtPiyB.jpeg",
+      "imageHint": "pudding collage"
     },
     {
       "id": "ebookMockup",
